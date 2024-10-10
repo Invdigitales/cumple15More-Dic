@@ -125,17 +125,47 @@ margin-left: 68%;
        color: #a992c0;
        margin-top: 8%;  
   }
-
   .parrafo4{
     text-align: center;
     font-family: "Bad Script", cursiva; 
        font-size: 28px;
        color: #5c5c5c;
        line-height: 30px;
-       margin-top: 10%;
+       margin-top: 8%;
+  }
+  .parrafo6{
+    text-align: center;
+    font-family: "Bad Script", cursiva; 
+       font-size: 28px;
+       color: #5c5c5c;
+       line-height: 30px;
+       margin-top: -4%;
   
   }
-  
+  .parrafo5{
+    text-align: center; 
+    font-family:'Amatic SC', cursive;
+       font-size: 38px;
+       color: #a992c0;
+       margin-top: 10%;  
+  }
+  .primary{
+    padding: 2px 9px;
+    font-size: 35px;
+    font-weight: bold;
+    border: none;
+    color: #a992c0;
+    background-color: #f9f6f69d;
+    border-radius: 7px;
+    box-shadow: 2px 2px 30px -5px #efc2ee;
+    cursor: pointer;
+    margin-top: 8%;
+    background-size: 50%;
+    margin-left: 38%;
+   font-family:'Amatic SC', cursive;
+    background-image: url(./imagenes/mariposas.gif);
+    background-size: 50%;
+  }
   .css-button-arrow--sand {
     padding: 2px 9px;
     font-size: 35px;
@@ -159,7 +189,13 @@ margin-left: 68%;
     margin-left: 13%;
   }
   
-
+  .parrafoD{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       font-size: 28px;
+       color: #504f4f;
+       font-weight: 600;
+  }
 
 
 
