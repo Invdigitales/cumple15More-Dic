@@ -106,7 +106,7 @@ margin-left: 68%;
     font-family:'Amatic SC', cursive;
        font-size: 38px;
        color: #a992c0;
-       margin-top: -5%;  
+       margin-top: -1%;  
   }
   
   .linea{
@@ -138,6 +138,13 @@ margin-left: 68%;
        line-height: 30px;
        margin-top: 8%;
   }
+  .parrafo8{
+    text-align: center; 
+    font-family:'Amatic SC', cursive;
+       font-size: 38px;
+       color: #a992c0;
+       margin-top: 20%;  
+  }
   .parrafo6{
     text-align: center;
     font-family: "Bad Script", cursiva; 
@@ -147,6 +154,27 @@ margin-left: 68%;
        margin-top: 5%;
   
   }
+
+  .parrafo9{
+    text-align: center;
+    font-family: "Bad Script", cursiva; 
+       font-size: 28px;
+       color: #5c5c5c;
+       line-height: 30px;
+       margin-top: 5%;
+  
+  } 
+
+  .parrafo10{
+    text-align: center;
+    font-family: "Bad Script", cursiva; 
+       font-size: 25px;
+       color: #5c5c5c;
+       line-height: 30px;
+       margin-top: 10%;
+  
+  }
+
   .parrafo5{
     text-align: center; 
     font-family:'Amatic SC', cursive;
@@ -403,8 +431,8 @@ margin-left: 68%;
  margin-top: -50%;
  }
 .whatsap{
-  width: 35%;
- margin-left:32%;
+  width: 15%;
+ margin-left:43%;
  margin-top: 5%;
   
 }
